@@ -43,7 +43,8 @@ poetry run jupyter lab
 ```
 
 
-now in jupyter from "run" menu click on "Run all cells" to run the code.
+now in jupyter select extract_graph.ipynb file then
+from "run" menu click on "Run all cells" to run the code.
 
 it read the document text from /data_input/cureus/any-name.txt.
 
